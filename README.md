@@ -1,4 +1,4 @@
-- 👋 Hi, I’m vaseemv Anwar
+- 👋 Hi, I’m vaseem Anwar
 - 👀 A growing flutter developer...
 - 🌱 I’m currently learning Dart&Flutter 
 
